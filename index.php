@@ -12,10 +12,10 @@
     <?php 
         include('function.php');
         include('varTab.php');
-        echo viewTab($portrait1 , $descriptVic);   
-        echo viewTab($portrait2 , $descriptJean);
-        echo viewTab($portrait3 , $descriptPierre);
-        echo viewTab($portrait4 , $descriptJR);
+        echo viewTab($portrait1);   
+        echo viewTab($portrait2);
+        echo viewTab($portrait3);
+        echo viewTab($portrait4);
     ?>
 </div>
 
